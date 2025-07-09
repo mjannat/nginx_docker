@@ -7,6 +7,7 @@ This project demonstrates how to serve a static website using **Nginx** inside a
 ## Pull and Run from Docker Hub
 
 If you just want to run the image directly:
+
 docker pull mjannat/static-site:latest
 docker run -d -p 8080:80 mjannat/static-site
 
